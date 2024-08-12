@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>hello react app</h1>
       <h2>this is second change</h2>
+      <h3>tisha jain</h3>
     </div>
   );
 }
